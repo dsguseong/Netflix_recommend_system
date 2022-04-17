@@ -4,7 +4,7 @@ to recommend Users between Movie and TV Series, who signed up at first (without 
 
 # Main Models
 - XGB_Classifier, Radom Forest Classifier
-
+- To explain the result, using PDP and SHAP library 
 
 # 
 |#|Procedure|
