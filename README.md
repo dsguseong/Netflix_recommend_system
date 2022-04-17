@@ -9,8 +9,8 @@ to recommend Users between Movie and TV Series, who signed up at first (without 
 # 
 |#|Procedure|
 |--|--|
-|1.|Data analysing|
-|2.|Data EDA & featuring |
+|1.|Data Wragling, Mining & Analysing|
+|2.|Data EDA & Featuring |
 |3.|Data Visualizing |
 |4.|Data Modeling |
-|5.|Conclusion with explanations |
+|5.|Conclusion explanations with PDP and SHAP|
